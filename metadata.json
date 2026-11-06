@@ -1,0 +1,6 @@
+{
+  "name": "ناطق AI - تحويل النص لصوت",
+  "description": "تطبيق متطور لتحويل النصوص العربية إلى صوت ذكي واحترافي مع ضبط مخارج الحروف والتشكيل والتحكم في نبرة وسرعة الصوت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
